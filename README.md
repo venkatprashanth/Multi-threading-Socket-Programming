@@ -11,7 +11,7 @@ Features
 4. The nodes will save all data that was sent to them in the form of output files.
 
 Packages Installation
-1. pip install tabulate
+1. pip3 install tabulate
 2. git clone https://github.com/venkatprashanth/Multi-threading-Socket-Programming.git
 
 Source Code Execution
