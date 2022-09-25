@@ -12,7 +12,7 @@ Features
 
 Packages Installation
 1. pip install tabulate
-2. 
+2. git clone https://github.com/venkatprashanth/Multi-threading-Socket-Programming.git
 
 Source Code Execution
 1. Server Code: Python3 server.py
@@ -24,6 +24,6 @@ in_path = "/home/prashanth/CN_Ass1/input_node_files"
 
 # Path to store the client received node files
 out_path = "/home/prashanth/CN_Ass1/output_node_files"
-
-Client and Port Mapped Table
+**
+Client and Port Mapped Table**
 ![Port_client](https://user-images.githubusercontent.com/45161178/192128887-e86d977e-4843-448a-9833-f648b614adf0.png)
